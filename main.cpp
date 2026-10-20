@@ -49,7 +49,7 @@ public:
     int price;
     int i = 0;
 
-    cout << "\n========== RESTAURANT MENU ==========\n\n";
+    cout << "\n---------- RESTAURANT MENU ----------\n\n";
 
     while (getline(file, line))
     {
@@ -122,9 +122,9 @@ public:
     int orderPlaced = 0;
 
     // THIS IS THE ORDERING OPTION THAT WAS MISSING
-    cout << "\n=====================================\n";
+    cout << "\n----------------------------------------\n";
     cout << "             PLACE YOUR ORDER\n";
-    cout << "=====================================\n";
+    cout << "\n----------------------------------------\n";
     cout << "Enter the item number to order it.\n";
     cout << "Enter 0 when you finish ordering.\n";
     cout << "Enter -1 to cancel your order.\n";
@@ -192,9 +192,9 @@ public:
 
     double total = 0;
 
-    cout << "\n============================================\n";
+    cout << "\n----------------------------------------\n";
     cout << "                 CUSTOMER BILL\n";
-    cout << "============================================\n";
+    cout << "\n----------------------------------------\n";
 
     cout << left << setw(27) << "Item"
          << right << setw(6) << "Qty"
