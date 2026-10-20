@@ -1,0 +1,18 @@
+Staff Schedule
+Restaurant Hours: 9 AM - 10 PM
+
+Staff ID   Staff Name       Designation           Working Days       Shift Timings
+
+ST101      Aayushi Desai    Restaurant Manager    Tuesday-Sunday     10 AM - 6 PM
+
+ST201      Riya Patel       Head Chef             Monday-Saturday    8 AM - 4 PM
+ST202      Harsh Mehta      Chef                  Tuesday-Sunday     2 PM - 10 PM
+ST203      Pooja Joshi      Chef                  Monday-Saturday    9 AM - 5 PM
+ST204      Jinal Parmar     Prep Chef             Monday-Sunday      7 AM - 3 PM
+
+ST301      Dhruv Trivedi    Waiter                Monday-Saturday    9 AM - 5 PM
+ST302      Mihir Parmar     Waiter                Tuesday-Sunday     2 PM - 10 PM
+ST303      Tanvi Joshi      Waiter                Monday-Saturday    2 PM - 10 PM
+
+ST401      Ishita Iyer      Cashier               Monday-Saturday    9 AM - 5 PM
+ST402      Nihar Patel      Cashier               Tuesday-Sunday     2 PM - 10 PM

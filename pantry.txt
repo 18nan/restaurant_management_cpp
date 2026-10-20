@@ -1,0 +1,43 @@
+
+Pantry Inventory
+
+Ingredient Name              Current Quantity 
+
+Roti                         150 pieces
+Paneer                       5 kg
+Onion                        8 kg
+Capsicum                     5 kg
+Curd                         3 kg
+Tikka Masala                 500 g
+Cooking Oil                  20 litres
+Mint Chutney                 3 kg
+Sweet Corn                   4 kg
+Mushroom                     4 kg
+Cheese                       6 kg
+Black Pepper                 500 g
+Potato                       25 kg
+Peri Peri Masala             2 kg
+Mayonnaise                   5 kg
+Cabbage                      5 kg
+Carrot                       5 kg
+Breadcrumbs                  3 kg
+Cornflour                    2 kg
+Salt                         3 kg
+Cola                         30 litres
+Lemon-Lime Soda              25 litres
+Orange Soda                  20 litres
+Mint Leaves                  1 kg
+Lemon                        100 pieces
+Ice                          20 kg
+Vanilla Ice Cream            5 kg
+Milk                         20 litres
+Rice                         3 kg
+Sugar                        10 kg
+Saffron                      10 g
+Pistachios                   500 g
+Cardamom Powder              250 g
+Moong Dal                    4 kg
+Ghee                         3 kg
+Almonds                      500 g
+Ready-Made Gulab Jamun       150 pieces
+Sugar Syrup                  10 litres
